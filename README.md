@@ -16,17 +16,6 @@ A simple parcel delivery management system built with the MERN Stack (MongoDB, E
 - **Database**: MongoDB (using MongoDB Atlas)
 - **Authentication**: JSON Web Token (JWT)
 
-## 📸 Screenshots
-
-### 🔐 Login Page
-
-![Login](./screenshots/login.png)
-
-### 📦 Parcels Page
-
-![Parcels](./screenshots/parcels.png)
-
-> 💡 To show the images correctly, make sure you create a folder named `screenshots` in your root directory and place the images there.
 
 ## 📂 Project Structure
 
