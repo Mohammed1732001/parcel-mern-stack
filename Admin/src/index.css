@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #242424;
+}
+
+.menue-ul-li {
+  color: #D7D7D7;
+  font-size: 18px;
+  transition: 0.5s;
+  list-style: none;
+  font-weight: bolder;
+}
+.link-ul-li{
+  text-decoration: none;
+}
+
+.menue-ul-li:hover {
+  color: #E9EB77;
+
+}
